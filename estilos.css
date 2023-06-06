@@ -1,0 +1,41 @@
+.cabecalho{
+    font-family: impact; haettenscheweiler, 'arial narrow  bold',
+    font-size: xx-large;
+}
+.corpo{
+    background-color: black;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.rodape{
+    background-color: goldenrod;
+    text-align: center;
+    font-size: medium;''
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.final{
+    font-size: ;
+
+}
+.a{
+    color: white;
+}
+.classe{
+    background-color: red;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.classe1{
+    background-color: white;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.classe2{
+    background-color: red;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
